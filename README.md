@@ -10,3 +10,5 @@ The final product will include essential components such as the header, featured
 6 Bootstrap
 7 Media Queries
 It adheres to accessibility best practices and be fully responsive across a variety of screen sizes.
+
+PS:**open the deployment link in incognito mode**.
